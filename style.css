@@ -43,6 +43,7 @@ body {
    width:260px;
    padding-top: 20px;
    padding-bottom: 16px;
+   color: hsl(218, 44%, 22%);
  }
  .bottom-container p {
    color: var(--lightgrey);
